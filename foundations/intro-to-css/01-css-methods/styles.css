@@ -1,0 +1,10 @@
+/*This is the CSS file for exercise 1
+Will add CSS elements for div through here, and the other two through the html doc*/
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
