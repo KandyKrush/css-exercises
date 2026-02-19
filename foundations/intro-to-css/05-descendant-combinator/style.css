@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+/*
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+The above code section is me using type selectors in order to get the desired styles for each component
+
+The following code section will use class selectors, and this will have the same effect */
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
